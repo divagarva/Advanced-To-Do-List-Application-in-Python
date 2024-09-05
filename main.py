@@ -3,6 +3,7 @@ import os
 # File to store tasks
 TASKS_FILE = 'tasks.txt'
 
+
 # Function to load tasks from the file
 def load_tasks():
     tasks = []
